@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=ossi
-VENDOR=oplus
+DEVICE=PEYM00
+VENDOR=OPPO
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
