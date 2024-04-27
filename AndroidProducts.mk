@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_PEYM00.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_ossi-user \
-    twrp_ossi-userdebug \
-    twrp_ossi-eng
+    twrp_PEYM00-user \
+    twrp_PEYM00-userdebug \
+    twrp_PEYM00-eng
